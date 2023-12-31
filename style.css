@@ -62,12 +62,7 @@ h1 {
   padding: 0.5em;
   transform: rotate(-4deg) translateY(-15vh);
 }
-audio {
-  width: 100%;
-  max-width: 300px;
-  margin: 20px 0;
 
-}
 .mountains {
   position: absolute;
   bottom: 0;
